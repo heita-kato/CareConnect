@@ -1,2 +1,2 @@
-# CareConnector
+# CareConnect
 東京の障害福祉サービスの事業所の空き情報を管理するWebアプリ「ケアコネクト」
